@@ -10,6 +10,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    color: white;
 }
 .nav-logo{
     height: 50px;
